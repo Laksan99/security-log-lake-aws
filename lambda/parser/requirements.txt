@@ -1,0 +1,7 @@
+New-Item lambda/parser/requirements.txt
+```
+
+Contenido del archivo (boto3 ya viene preinstalado en Lambda, pero lo documentamos):
+```
+# boto3 is pre-installed in AWS Lambda Python runtime
+# No external dependencies required for this function
