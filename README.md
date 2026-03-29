@@ -267,8 +267,8 @@ Built end-to-end by two engineers in a collaborative, PR-based workflow — both
 - [x] Power BI — VPN Analysis dashboard
 - [x] `docs/setup.md` — full deployment walkthrough
 - [x] `docs/data-dictionary.md` — field definitions and value enumerations
-- [] Partitioned Athena tables by date for query cost optimization
-- [] Parquet output via Lambda or Glue for production-scale performance
+- [ ] Partitioned Athena tables by date for query cost optimization
+- [ ] Parquet output via Lambda or Glue for production-scale performance
 
 <br>
 
